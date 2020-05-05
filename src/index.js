@@ -1,10 +1,8 @@
 import React, { Component, Fragment } from 'react';
 import ReactDOM from 'react-dom';
 import root from 'react-shadow';
-import { Style, hashKeys } from 'react-style-tag';
 
 import './index.css';
-// import cssString from 'bundle-text:./index.css';
 
 class TestStyles extends Component {
     
